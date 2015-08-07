@@ -1,5 +1,5 @@
 # Experimental_Cosmology
-My Summer Research 2015
+\bMy Summer Research 2015
 
 This code that I wrote for the Columbia Experiemtal Cosmology Laboratory should
 be able to find all the resonators picked up by the detector.

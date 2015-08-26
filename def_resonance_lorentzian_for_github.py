@@ -356,7 +356,8 @@ def fit_me_to_lorentzian(champ,x,y,move,noise,tol,flat,count_chi,count_chi_less_
     return chi_squared, count_chi, count_chi_less_than_1, hl, hr, champ, x_ideal, y_ideal, x_fit, y_fit
         
 '''This should show you all the resonators in close range fitted to the lorentzian function'''
-def show_me_resonators_in_close_range_with_lorentzian(ranges_to_look,freq_to_look,data_to_look,x,y,move,noise,tol,flat,order_of_mins,locmins):
+def show_me_resonators_in_close_range_with_lorentzian(ranges_to_look,freq_to_look,data_to_look,x,y,\
+                                                      move,noise,tol,flat,order_of_mins,locmins):
     index = 0
     index_list=[]
     count_chi=0

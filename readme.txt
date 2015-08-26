@@ -18,8 +18,6 @@ What is here :
 
 Together, they will read a file containing a list of numbers, and they will tell if that list of numbers have any resonances in it. Additionally, it will then fit those minimas to a lorentzian curve, and it will tell you what the chi-squared of all those individual minimas are. 
 
-"Proj_Resonance_Lorentzian_GitHub_Run_Me.pdf” : a pdf of the above programme
-
 “2015-07-01-starcryo-nevins-initial-sweep.npz” : the file I tested on
 
 “All_the_plots.zip” : all the lorentzian and resonance plots of the test
